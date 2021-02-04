@@ -25,6 +25,6 @@ using namespace console;
 
 int  main()
 {
-  print();
-	print();
+  graphics::print();
+	console::print();
 }
